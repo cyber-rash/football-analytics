@@ -1,5 +1,7 @@
 # Football Events Dashboard — Ishe salma telimati
 
+![Futbol Analitikası R Shiny dashboard-unun ümumi görünüşü](dashboard-preview.jpg)
+
 ## 1. Qovluq strukturu
 `app.R` faylini **butun `.rds` fayllarinla eyni qovluga** qoy:
 
@@ -62,3 +64,4 @@ avtomatik gorunecek. Fayl yoxdursa problem deyil, sade projektor-isigi effekti q
 [Futbol Analitikası](https://jrashid.shinyapps.io/for_shiny/)
 
 Mənbə: [Football Events](https://www.kaggle.com/datasets/secareanualin/football-events). Tətbiq repodakı hazır qruplaşdırılmış fayllarla işləyir.
+
